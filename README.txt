@@ -1,4 +1,4 @@
-(In progress) Description: In this project I have implemented a multilayer perceptron (MLP) character-level language model
+(In progress) Description: In this project I have implemented a multilayer perceptron (MLP) character-level language model.
 
 What I learned:
 
