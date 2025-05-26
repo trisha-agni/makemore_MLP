@@ -15,3 +15,5 @@ Math:
 AI:
 - Context length: number of tokens the model can process at once
 - Embeddings: --------------
+- Using mini-batches rather than the whole training set
+- learning rate decay: reducing learning rate towards end of training process
