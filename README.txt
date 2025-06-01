@@ -16,4 +16,8 @@ AI:
 - Context length: number of tokens the model can process at once
 - Embeddings: --------------
 - Using mini-batches rather than the whole training set
-- learning rate decay: reducing learning rate towards end of training process
+- Learning rate decay: reducing learning rate towards end of training process
+- To avoid overfitting, split data:
+  - Training split: used to tune parameters of model
+  - Dev/validation split: used to tune hyperparameters
+  - Test split: used to evaluate model's performance at the end
