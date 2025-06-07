@@ -1,4 +1,4 @@
-(In progress) Description: In this project I have implemented a multilayer perceptron (MLP) character-level language model.
+Description: In this project I have implemented a multilayer perceptron (MLP) character-level language model.
 
 What I learned:
 
@@ -8,13 +8,9 @@ Python:
   - view(): change dimensions of a tensor (ex: [9, 2] --> [6, 3])
   - cross_entropy(): computes loss
 
-
-Math:
-
-
 AI:
 - Context length: number of tokens the model can process at once
-- Embeddings: --------------
+- Embeddings: numerical representations of (in this case) letters
 - Using mini-batches rather than the whole training set
 - Learning rate decay: reducing learning rate towards end of training process
 - To avoid overfitting, split data:
